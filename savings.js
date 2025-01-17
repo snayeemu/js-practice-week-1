@@ -12,3 +12,4 @@ const calcSavings = (payments, cost) => {
 };
 
 calcSavings([3000], 300);
+
